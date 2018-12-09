@@ -5,6 +5,14 @@
 
 
 필요한 라이브러리는 다음.
+
+
 #include <AddicoreRFID.h> //RFID
+
+
 #include <LiquidCrystal_I2C.h> //LCD
+
+
 #include <DS1302.h> //RTC
+
+
